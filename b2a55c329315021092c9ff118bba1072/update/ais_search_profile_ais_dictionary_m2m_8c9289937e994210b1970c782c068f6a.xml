@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="financial-control Search Profile">48928993e799421051fff20ba78b3f6c</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 14:57:15</sys_created_on>
+        <sys_id>8c9289937e994210b1970c782c068f6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_stop_word_dictionary.financial-control Search Profile</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_8c9289937e994210b1970c782c068f6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 14:57:15</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

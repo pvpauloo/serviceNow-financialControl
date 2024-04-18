@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>My requests - incident bundle</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-08 13:45:28</sys_created_on>
+        <sys_id>974503376b150210b50e007e79b8ec21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My requests - incident bundle</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_974503376b150210b50e007e79b8ec21</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-08 13:45:28</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>

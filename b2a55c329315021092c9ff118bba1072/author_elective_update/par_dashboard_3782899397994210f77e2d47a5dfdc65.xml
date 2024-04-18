@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="DELETE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <grid>48</grid>
+        <name>Financial Control</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 14:57:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3782899397994210f77e2d47a5dfdc65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial Control</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>par_dashboard_3782899397994210f77e2d47a5dfdc65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 14:57:16</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>par_dashboard_3782899397994210f77e2d47a5dfdc65</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><certified>false</certified><description/><experience/><grid>48</grid><name>Financial Control</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-06 14:57:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3782899397994210f77e2d47a5dfdc65</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Financial Control</sys_name><sys_overrides/><sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope><sys_update_name>par_dashboard_3782899397994210f77e2d47a5dfdc65</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-06 14:57:16</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+        <payload_hash>1467334859</payload_hash>
+        <record_name>Financial Control</record_name>
+        <reverted_from/>
+        <source>c990a7339301021092c9ff118bba1008</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-27 05:28:54</sys_created_on>
+        <sys_id>a98de55b935d421092c9ff118bba10f9</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e7e61f9f00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>PAR Dashboard</type>
+        <update_guid>698de55be35d4210b13efa79392b6ff9</update_guid>
+        <update_guid_history>698de55be35d4210b13efa79392b6ff9:1467334859</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Financial Control">298de55b935d421092c9ff118bba10fa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 18:04:58</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard">par_dashboard</sys_db_object>
+        <sys_id>351c76b0ba3649c89b4b2c86b4ef5410</sys_id>
+        <sys_metadata>3782899397994210f77e2d47a5dfdc65</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial Control</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>par_dashboard_3782899397994210f77e2d47a5dfdc65</sys_update_name>
+        <sys_update_version display_value="par_dashboard_3782899397994210f77e2d47a5dfdc65">a98de55b935d421092c9ff118bba10f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 18:04:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

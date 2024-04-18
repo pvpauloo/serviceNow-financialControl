@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_1329453_to_do_out_types,x_1329453_to_do_destinations,x_1329453_to_do_registers,x_1329453_to_do_incoming</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>financial-control Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_1329453_to_do_financial_control_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 14:57:21</sys_created_on>
+        <sys_id>65920d939399421092c9ff118bba1070</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_1329453_to_do_financial_control_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>ais_dictionary_65920d939399421092c9ff118bba1070</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 14:57:21</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

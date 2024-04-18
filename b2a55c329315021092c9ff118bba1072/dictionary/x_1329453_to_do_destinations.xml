@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2949c8cf9351021092c9ff118bba1021" label="Destinations" max_length="40" name="x_1329453_to_do_destinations" text_index="true" type="collection">
+        <element label="Description" max_length="300" name="description" type="string"/>
+        <element display="true" label="Destination" mandatory="true" max_length="40" name="destination" type="string"/>
+        <element label="EndDate" max_length="40" name="enddate" type="glide_date"/>
+        <element label="Expected" max_length="20" name="expected" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="OutType" mandatory="true" max_length="32" name="outtype" reference="x_1329453_to_do_out_types" type="reference"/>
+        <index name="index">
+            <element name="outtype"/>
+        </index>
+    </element>
+</database>

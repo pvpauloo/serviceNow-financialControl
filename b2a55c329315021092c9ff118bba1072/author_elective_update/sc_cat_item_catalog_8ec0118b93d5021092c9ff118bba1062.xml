@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Create OutType">8ec9094393d5021092c9ff118bba103e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 21:20:53</sys_created_on>
+        <sys_id>8ec0118b93d5021092c9ff118bba1062</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create OutType</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8ec0118b93d5021092c9ff118bba1062</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 21:20:53</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>sc_cat_item_catalog_8ec0118b93d5021092c9ff118bba1062</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create OutType">8ec9094393d5021092c9ff118bba103e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-05 21:20:53</sys_created_on><sys_id>8ec0118b93d5021092c9ff118bba1062</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Create OutType</sys_name><sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope><sys_update_name>sc_cat_item_catalog_8ec0118b93d5021092c9ff118bba1062</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-05 21:20:53</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>162072627</payload_hash>
+        <record_name>Service Catalog.Create OutType</record_name>
+        <reverted_from/>
+        <source>7ea55c329315021092c9ff118bba1082</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 21:20:53</sys_created_on>
+        <sys_id>c2c0118b93d5021092c9ff118bba1067</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eb022caea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 21:20:53</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>c2c0118bc7d50210c60a9ad45b0f5c66</update_guid>
+        <update_guid_history>c2c0118bc7d50210c60a9ad45b0f5c66:162072627</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Create OutType">2cd0518b93d5021092c9ff118bba1061</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 21:21:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0b2f176c12544d9a80be1118aef43ee4</sys_id>
+        <sys_metadata>8ec0118b93d5021092c9ff118bba1062</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create OutType</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent display_value="[FC] Create OutType">8ec9094393d5021092c9ff118bba103e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_8ec0118b93d5021092c9ff118bba1062</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_8ec0118b93d5021092c9ff118bba1062">c2c0118b93d5021092c9ff118bba1067</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 21:21:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

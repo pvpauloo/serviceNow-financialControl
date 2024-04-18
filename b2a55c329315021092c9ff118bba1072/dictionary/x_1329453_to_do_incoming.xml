@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3308008f9351021092c9ff118bba1074" label="Incoming" max_length="40" name="x_1329453_to_do_incoming" text_index="true" type="collection">
+        <element label="Account" max_length="40" name="account" type="string"/>
+        <element label="Amount" max_length="20" name="amount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Source" mandatory="true" max_length="40" name="source" type="string"/>
+    </element>
+</database>

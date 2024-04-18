@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="">c09289933c994210373f55b99c79bb6c</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 14:57:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7f828993bc9942108db4774cb2e6615c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sys_ux_page_property_7f828993bc9942108db4774cb2e6615c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 14:57:16</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1329453_to_do.c09289933c994210373f55b99c79bb6c.root.ribbonConfigId</unique_name>
+        <value>37828993fc9942101132132c8e10be5c</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>sys_ux_page_property_7f828993bc9942108db4774cb2e6615c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Ribbon Config ID</description><name>ribbonConfigId</name><page display_value="">c09289933c994210373f55b99c79bb6c</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-06 14:57:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>7f828993bc9942108db4774cb2e6615c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonConfigId</sys_name><sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope><sys_update_name>sys_ux_page_property_7f828993bc9942108db4774cb2e6615c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-06 14:57:16</sys_updated_on><type>string</type><unique_name>x_1329453_to_do.c09289933c994210373f55b99c79bb6c.root.ribbonConfigId</unique_name><value>37828993fc9942101132132c8e10be5c</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-439878945</payload_hash>
+        <record_name>ribbonConfigId</record_name>
+        <reverted_from/>
+        <source>c990a7339301021092c9ff118bba1008</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-27 05:28:54</sys_created_on>
+        <sys_id>b191cbbf93d1021092c9ff118bba1091</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e7e61f9f00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>7191cbbf37d10210295678e4c9209c91</update_guid>
+        <update_guid_history>7191cbbf37d10210295678e4c9209c91:-439878945</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-08 13:29:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>7c7d381b5b694cf696892a51c18a15e4</sys_id>
+        <sys_metadata>7f828993bc9942108db4774cb2e6615c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_7f828993bc9942108db4774cb2e6615c</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_7f828993bc9942108db4774cb2e6615c">b191cbbf93d1021092c9ff118bba1091</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-08 13:29:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

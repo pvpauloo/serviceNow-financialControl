@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Registers Table</name>
+        <retention_policy/>
+        <source>x_1329453_to_do_registers</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 14:57:20</sys_created_on>
+        <sys_id>25920d939399421092c9ff118bba1067</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Registers Table</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>ais_datasource_25920d939399421092c9ff118bba1067</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 14:57:20</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

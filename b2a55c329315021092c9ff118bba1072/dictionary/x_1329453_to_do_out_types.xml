@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="60a4c84b9351021092c9ff118bba10a5" label="OutTypes" max_length="40" name="x_1329453_to_do_out_types" text_index="true" type="collection">
+        <element label="budget" mandatory="true" max_length="20" name="budget" type="price"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="OutTypeName" mandatory="true" max_length="40" name="outtypename" type="string"/>
+    </element>
+</database>

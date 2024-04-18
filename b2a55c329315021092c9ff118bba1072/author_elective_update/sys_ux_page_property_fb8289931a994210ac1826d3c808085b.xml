@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">c09289933c994210373f55b99c79bb6c</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 14:57:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>fb8289931a994210ac1826d3c808085b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sys_ux_page_property_fb8289931a994210ac1826d3c808085b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 14:57:16</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1329453_to_do.c09289933c994210373f55b99c79bb6c.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>sys_ux_page_property_fb8289931a994210ac1826d3c808085b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">c09289933c994210373f55b99c79bb6c</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-06 14:57:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>fb8289931a994210ac1826d3c808085b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope><sys_update_name>sys_ux_page_property_fb8289931a994210ac1826d3c808085b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-06 14:57:16</sys_updated_on><type>json</type><unique_name>x_1329453_to_do.c09289933c994210373f55b99c79bb6c.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1922127899</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>c990a7339301021092c9ff118bba1008</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-27 05:28:54</sys_created_on>
+        <sys_id>b991cbbf93d1021092c9ff118bba10e9</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e7e61f9f00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>7991cbbf3cd10210dfa44861a0151be9</update_guid>
+        <update_guid_history>7991cbbf3cd10210dfa44861a0151be9:1922127899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-08 13:29:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>24c1532323c4410e86725bcdcadae3e9</sys_id>
+        <sys_metadata>fb8289931a994210ac1826d3c808085b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_fb8289931a994210ac1826d3c808085b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_fb8289931a994210ac1826d3c808085b">b991cbbf93d1021092c9ff118bba10e9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-08 13:29:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

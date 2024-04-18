@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="OutTypes">e5920d939399421092c9ff118bba10bf</ais_search_source>
+        <label>OutTypes</label>
+        <name>OutTypes</name>
+        <order>300</order>
+        <search_context_config display_value="Financial Control AI Search Configuration">b78289936e994210ed00504706607b63</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 14:57:21</sys_created_on>
+        <sys_id>f1920d939399421092c9ff118bba10c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OutTypes</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sys_search_filter_f1920d939399421092c9ff118bba10c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 14:57:21</sys_updated_on>
+    </sys_search_filter>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ab3a00439391021092c9ff118bba10eb" label="Registers" max_length="40" name="x_1329453_to_do_registers" text_index="true" type="collection">
+        <element label="Amount" mandatory="true" max_length="20" name="amount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="OutTypeName" max_length="40" name="outtypename" type="string"/>
+        <element choice="1" display="true" label="Title" mandatory="true" max_length="40" name="title" reference="x_1329453_to_do_destinations" type="reference">
+            <choice/>
+        </element>
+    </element>
+</database>

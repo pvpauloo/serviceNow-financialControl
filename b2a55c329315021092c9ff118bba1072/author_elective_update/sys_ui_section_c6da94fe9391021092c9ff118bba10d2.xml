@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="c6da94fe9391021092c9ff118bba10d2" sys_domain="global" table="x_1329453_to_do_activities" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 22:46:45</sys_created_on>
+            <sys_id>4eda50f69315021092c9ff118bba10ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 22:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 22:52:26</sys_created_on>
+            <sys_id>952c54f69315021092c9ff118bba103c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 22:52:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 22:53:11</sys_created_on>
+            <sys_id>9c5c9c329315021092c9ff118bba1005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 22:53:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submitter</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 22:54:31</sys_created_on>
+            <sys_id>7f9cd07a9315021092c9ff118bba1049</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 22:54:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 22:54:47</sys_created_on>
+            <sys_id>77ac107a9315021092c9ff118bba10f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 22:54:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submission_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 22:56:58</sys_created_on>
+            <sys_id>a32d50ba9315021092c9ff118bba10a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 22:56:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 22:57:25</sys_created_on>
+            <sys_id>d24d507a9315021092c9ff118bba1076</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 22:57:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1329453_to_do_activities</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-04 22:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6da94fe9391021092c9ff118bba10d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1329453_to_do_activities</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TO DO" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TO DO">b2a55c329315021092c9ff118bba1072</sys_scope>
+            <sys_update_name>sys_ui_section_c6da94fe9391021092c9ff118bba10d2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-04 22:46:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>sys_ui_section_c6da94fe9391021092c9ff118bba10d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="c6da94fe9391021092c9ff118bba10d2" sys_domain="global" table="x_1329453_to_do_activities" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:46:45</sys_created_on><sys_id>4eda50f69315021092c9ff118bba10ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:52:26</sys_created_on><sys_id>952c54f69315021092c9ff118bba103c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:52:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:53:11</sys_created_on><sys_id>9c5c9c329315021092c9ff118bba1005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:53:11</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>submitter</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:54:31</sys_created_on><sys_id>7f9cd07a9315021092c9ff118bba1049</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:54:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:54:47</sys_created_on><sys_id>77ac107a9315021092c9ff118bba10f6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:54:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>submission_date</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:56:58</sys_created_on><sys_id>a32d50ba9315021092c9ff118bba10a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:56:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>closed_date</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:57:25</sys_created_on><sys_id>d24d507a9315021092c9ff118bba1076</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_activities" sys_domain="global" view="Default view">c6da94fe9391021092c9ff118bba10d2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:57:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1329453_to_do_activities</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:46:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c6da94fe9391021092c9ff118bba10d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1329453_to_do_activities</sys_name><sys_overrides/><sys_package display_value="TO DO" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="TO DO">b2a55c329315021092c9ff118bba1072</sys_scope><sys_update_name>sys_ui_section_c6da94fe9391021092c9ff118bba10d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:46:44</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1411196399</payload_hash>
+        <record_name>Activities</record_name>
+        <reverted_from/>
+        <source>7ea55c329315021092c9ff118bba1082</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 22:57:25</sys_created_on>
+        <sys_id>da4d54ba9315021092c9ff118bba1095</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eab54cc8a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 22:57:25</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>524d54ba171502104faa2d2b1fe2dd95</update_guid>
+        <update_guid_history>524d54ba171502104faa2d2b1fe2dd95:1411196399,632dd0ba4c150210d1127b7ecf0a0602:-216992194,ffac107a5d150210acdab78c9f8b63f7:-423320434,b79cd07ace150210628173196aa9894b:-2121902580,945c9c321e150210195e6a78111be107:791622262,592c5c3a231502107a2350bb9dfa4b0c:-2023474632,06da50f6251502101f8ca5ba3eddd4cc:-1764464202,46da50f60115021063d7d1ea580679ca:1121577135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 23:07:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3632648954484dcf9f651dd45c8f03d1</sys_id>
+        <sys_metadata>c6da94fe9391021092c9ff118bba10d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1329453_to_do_activities</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent display_value="">ddda50f69315021092c9ff118bba1056</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c6da94fe9391021092c9ff118bba10d2</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c6da94fe9391021092c9ff118bba10d2">da4d54ba9315021092c9ff118bba1095</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 23:07:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

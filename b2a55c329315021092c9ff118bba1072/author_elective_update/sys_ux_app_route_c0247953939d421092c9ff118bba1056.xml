@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Financial Control App Config">809289932399421061f066a80578656d</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>teste mapa</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>teste-mapa</route_type>
+        <screen_type display_value="teste mapa">0c24355f935d421092c9ff118bba10dd</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 18:33:47</sys_created_on>
+        <sys_id>c0247953939d421092c9ff118bba1056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste mapa</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sys_ux_app_route_c0247953939d421092c9ff118bba1056</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 18:33:47</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=c0247953939d421092c9ff118bba1056"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>sys_ux_app_route_c0247953939d421092c9ff118bba1056</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Financial Control App Config">809289932399421061f066a80578656d</app_config><description/><extension_point/><fields/><icon/><name>teste mapa</name><optional_parameters/><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>teste-mapa</route_type><screen_type display_value="teste mapa">0c24355f935d421092c9ff118bba10dd</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-06 18:33:47</sys_created_on><sys_id>c0247953939d421092c9ff118bba1056</sys_id><sys_mod_count>0</sys_mod_count><sys_name>teste mapa</sys_name><sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope><sys_update_name>sys_ux_app_route_c0247953939d421092c9ff118bba1056</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-06 18:33:47</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=c0247953939d421092c9ff118bba1056"/></record_update>]]></payload>
+        <payload_hash>828062544</payload_hash>
+        <record_name>teste mapa</record_name>
+        <reverted_from/>
+        <source>7ea55c329315021092c9ff118bba1082</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 18:33:47</sys_created_on>
+        <sys_id>cc247953939d421092c9ff118bba1058</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eb4b028740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 18:33:47</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>402479539d9d4210ece14ce59335e258</update_guid>
+        <update_guid_history>402479539d9d4210ece14ce59335e258:828062544</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 18:38:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>4769562e945a42b8be7ed9abebc83bc4</sys_id>
+        <sys_metadata>c0247953939d421092c9ff118bba1056</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste mapa</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_c0247953939d421092c9ff118bba1056</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_c0247953939d421092c9ff118bba1056">cc247953939d421092c9ff118bba1058</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 18:38:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

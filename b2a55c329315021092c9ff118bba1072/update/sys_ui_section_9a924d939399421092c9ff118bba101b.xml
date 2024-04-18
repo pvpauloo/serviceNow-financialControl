@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9a924d939399421092c9ff118bba101b" sys_domain="global" table="x_1329453_to_do_registers" version="3" view="workspace-financial-control-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 16:24:18</sys_created_on>
+            <sys_id>9f769ddb93d9421092c9ff118bba109c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_registers" sys_domain="global" view="33828993c399421013a4299a0102ca63">9a924d939399421092c9ff118bba101b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 16:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 16:24:18</sys_created_on>
+            <sys_id>9b769ddb93d9421092c9ff118bba109d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_registers" sys_domain="global" view="33828993c399421013a4299a0102ca63">9a924d939399421092c9ff118bba101b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 16:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 16:24:18</sys_created_on>
+            <sys_id>93769ddb93d9421092c9ff118bba109e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_registers" sys_domain="global" view="33828993c399421013a4299a0102ca63">9a924d939399421092c9ff118bba101b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 16:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>outtypename</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 16:24:18</sys_created_on>
+            <sys_id>9b769ddb93d9421092c9ff118bba109e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329453_to_do_registers" sys_domain="global" view="33828993c399421013a4299a0102ca63">9a924d939399421092c9ff118bba101b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 16:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1329453_to_do_registers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 14:57:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a924d939399421092c9ff118bba101b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1329453_to_do_registers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+            <sys_update_name>sys_ui_section_9a924d939399421092c9ff118bba101b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 14:57:24</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Financial Control 0" name="workspace-financial-control-0">33828993c399421013a4299a0102ca63</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

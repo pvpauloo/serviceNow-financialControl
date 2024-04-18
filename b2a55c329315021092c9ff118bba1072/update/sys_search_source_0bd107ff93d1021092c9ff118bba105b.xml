@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1329453_to_do_destinations">active=true</condition>
+        <group/>
+        <name>Financial Control - x_1329453_to_do_destinations</name>
+        <roles/>
+        <source_table>x_1329453_to_do_destinations</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-08 13:30:22</sys_created_on>
+        <sys_id>0bd107ff93d1021092c9ff118bba105b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial Control - x_1329453_to_do_destinations</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sys_search_source_0bd107ff93d1021092c9ff118bba105b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-08 13:30:22</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=0bd107ff93d1021092c9ff118bba105b"/>
+</record_update>

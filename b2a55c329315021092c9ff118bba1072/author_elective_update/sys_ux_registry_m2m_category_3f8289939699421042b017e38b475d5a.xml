@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <order/>
+        <page_registry display_value="">c09289933c994210373f55b99c79bb6c</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 14:57:16</sys_created_on>
+        <sys_id>3f8289939699421042b017e38b475d5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_3f8289939699421042b017e38b475d5a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 14:57:16</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>sys_ux_registry_m2m_category_3f8289939699421042b017e38b475d5a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><order/><page_registry display_value="">c09289933c994210373f55b99c79bb6c</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-06 14:57:16</sys_created_on><sys_id>3f8289939699421042b017e38b475d5a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope><sys_update_name>sys_ux_registry_m2m_category_3f8289939699421042b017e38b475d5a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-06 14:57:16</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>1980538840</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c990a7339301021092c9ff118bba1008</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-27 05:28:54</sys_created_on>
+        <sys_id>2591cbbf93d1021092c9ff118bba1017</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e7e61f9f00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application Category M2M</type>
+        <update_guid>e191cbbf2dd10210b459753314602c17</update_guid>
+        <update_guid_history>e191cbbf2dd10210b459753314602c17:1980538840</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-08 13:29:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>12ece4f7006b4ca482401eb1311ebf21</sys_id>
+        <sys_metadata>3f8289939699421042b017e38b475d5a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_3f8289939699421042b017e38b475d5a</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_3f8289939699421042b017e38b475d5a">2591cbbf93d1021092c9ff118bba1017</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-08 13:29:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 22:46:48</sys_created_on>
+        <sys_id>fada90f69315021092c9ff118bba10ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1329453_to_do_activities.x_1329453_to_do.user</sys_name>
+        <sys_package display_value="TO DO" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TO DO">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_security_acl display_value="x_1329453_to_do_activities">72da90f69315021092c9ff118bba10fd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fada90f69315021092c9ff118bba10ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 22:46:48</sys_updated_on>
+        <sys_user_role display_value="x_1329453_to_do.user" name="x_1329453_to_do.user">c3a55c329315021092c9ff118bba108d</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>sys_security_acl_role_fada90f69315021092c9ff118bba10ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 22:46:48</sys_created_on><sys_id>fada90f69315021092c9ff118bba10ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1329453_to_do_activities.x_1329453_to_do.user</sys_name><sys_package display_value="TO DO" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="TO DO">b2a55c329315021092c9ff118bba1072</sys_scope><sys_security_acl display_value="x_1329453_to_do_activities">72da90f69315021092c9ff118bba10fd</sys_security_acl><sys_update_name>sys_security_acl_role_fada90f69315021092c9ff118bba10ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 22:46:48</sys_updated_on><sys_user_role display_value="x_1329453_to_do.user" name="x_1329453_to_do.user">c3a55c329315021092c9ff118bba108d</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1207022350</payload_hash>
+        <record_name>x_1329453_to_do_activities.x_1329453_to_do.user</record_name>
+        <reverted_from/>
+        <source>7ea55c329315021092c9ff118bba1082</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 22:46:48</sys_created_on>
+        <sys_id>3edad0f69315021092c9ff118bba100e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eab4b14000000002</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 22:46:48</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>32dad0f685150210405036c22957030e</update_guid>
+        <update_guid_history>32dad0f685150210405036c22957030e:1207022350</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1329453_to_do_activities.x_1329453_to_do.user">f67f907e9315021092c9ff118bba105f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 23:07:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>81ec0a2a9d144d43bc7c15be327b2499</sys_id>
+        <sys_metadata>fada90f69315021092c9ff118bba10ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1329453_to_do_activities.x_1329453_to_do.user</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent display_value="">72da90f69315021092c9ff118bba10fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_fada90f69315021092c9ff118bba10ff</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_fada90f69315021092c9ff118bba10ff">3edad0f69315021092c9ff118bba100e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 23:07:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

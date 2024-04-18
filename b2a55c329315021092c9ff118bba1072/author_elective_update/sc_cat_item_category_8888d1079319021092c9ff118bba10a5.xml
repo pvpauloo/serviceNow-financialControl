@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Register">a528d9c39319021092c9ff118bba10d2</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 21:54:36</sys_created_on>
+        <sys_id>8888d1079319021092c9ff118bba10a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Register</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_update_name>sc_cat_item_category_8888d1079319021092c9ff118bba10a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 21:54:36</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Control">b2a55c329315021092c9ff118bba1072</application>
+        <file_path/>
+        <instance_id>ed1fb39e1ba63d10699443f4bd4bcbda</instance_id>
+        <instance_name>dev217041</instance_name>
+        <name>sc_cat_item_category_8888d1079319021092c9ff118bba10a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Register">a528d9c39319021092c9ff118bba10d2</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-05 21:54:36</sys_created_on><sys_id>8888d1079319021092c9ff118bba10a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Register</sys_name><sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package><sys_policy/><sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope><sys_update_name>sc_cat_item_category_8888d1079319021092c9ff118bba10a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-05 21:54:36</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1353690614</payload_hash>
+        <record_name>Can We Help You?.Register</record_name>
+        <reverted_from/>
+        <source>7ea55c329315021092c9ff118bba1082</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 21:54:36</sys_created_on>
+        <sys_id>0088d1079319021092c9ff118bba10aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eb041a82e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 21:54:36</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>4088d1074f190210f95983f4e5230fa9</update_guid>
+        <update_guid_history>4088d1074f190210f95983f4e5230fa9:1353690614</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Register">3bd8d9079319021092c9ff118bba10f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 21:56:14</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2760aaf11a024ddeb07690ae2cbe46d9</sys_id>
+        <sys_metadata>8888d1079319021092c9ff118bba10a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Register</sys_name>
+        <sys_package display_value="Financial Control" source="x_1329453_to_do">b2a55c329315021092c9ff118bba1072</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Financial Control">b2a55c329315021092c9ff118bba1072</sys_scope>
+        <sys_scope_delete display_value="">8ed79492175c4b21a1fcfc2376a99671</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_8888d1079319021092c9ff118bba10a5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_8888d1079319021092c9ff118bba10a5">0088d1079319021092c9ff118bba10aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 21:56:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
